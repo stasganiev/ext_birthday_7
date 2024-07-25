@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.ФизическиеЛица" id="2549ce79-acfa-4714-9ad7-bae038540897" configVersion="473bdbdd1b25a751745f4d9435c69a89b41fa638">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ДатаРождения" id="1310a11b-3698-4ec3-bfc7-61ab92b57cf5"/>
+		</Metadata>
+		<Metadata name="Configuration.ДниРождения" id="e62a2b24-fadc-4106-aa2d-6fe20850fdc3" configVersion="a3607b164f68be844d3935dfaaf44796b291a488"/>
+		<Metadata name="Language.Русский" id="1a0d71eb-7e8f-4179-9236-b500fbb03cdb" configVersion="6beb0c0adc810ca1fc7f2cfab3828b978daaba15"/>
+		<Metadata name="Report.др_ПредстоящиеДниРождения" id="271dacaf-73b7-4a0d-b4e2-ac1d499c1a91" configVersion="f2b78ffad8d6f8766eb26cb81fad1c11d5ebc5ef"/>
+		<Metadata name="Report.др_ПредстоящиеДниРождения.Template.ОсновнаяСхемаКомпоновкиДанных" id="087bf8b6-b9ff-45a3-9bde-166fbc2340be" configVersion="610df093daac2db9d71926f29f2b01356c60dcf9"/>
+		<Metadata name="Report.др_ПредстоящиеДниРождения.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="087bf8b6-b9ff-45a3-9bde-166fbc2340be.0" configVersion="b49fa0548fa449b65e479013fd3b9ea5963abbbf"/>
+		<Metadata name="Role.ПолныеПрава" id="0c5d2f76-ae06-4b6a-8844-61d0a86e61cc" configVersion="55f8110cdf21466860d99d8af06d2e763a3ceb71"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="0c5d2f76-ae06-4b6a-8844-61d0a86e61cc.0" configVersion="1316a8c0c423b089c2a2f6a6bf3fb907436a4c60"/>
+		<Metadata name="Role.др_ОсновнаяРоль" id="05cfd339-5449-4192-b24a-ade60a6717b7" configVersion="89a7587a406fa18976caea4b510cc52eaa8211cf"/>
+		<Metadata name="Subsystem.Администрирование" id="06b4918a-d8c1-433a-93bc-a9b9ba6e8eec" configVersion="fa3bff415b7062c71751c459fbbc958d909d97cd"/>
+		<Metadata name="Subsystem.Администрирование.Subsystem.ФизическиеЛица" id="2884bdb1-1675-4c22-ac35-f9e302903ab1" configVersion="0e65c121599eafc1f7d10cf50a26885bdecf282c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
