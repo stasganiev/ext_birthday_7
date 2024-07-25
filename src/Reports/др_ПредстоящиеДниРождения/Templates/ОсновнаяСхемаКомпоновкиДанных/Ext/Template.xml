@@ -28,12 +28,17 @@
 				</v8:item>
 			</title>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>Пол</dataPath>
+			<field>Пол</field>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
 	ФизЛица.Ссылка КАК Ссылка,
 	ФизЛица.Наименование КАК Наименование,
 	ФизЛица.ДатаРождения КАК ДатаРождения,
-	ДЕНЬ(ФизЛица.ДатаРождения) КАК ЧислоМесяцаРождения
+	ДЕНЬ(ФизЛица.ДатаРождения) КАК ЧислоМесяцаРождения,
+	ФизЛица.Пол КАК Пол
 ИЗ
 	Справочник.ФизическиеЛица КАК ФизЛица
 ГДЕ
@@ -74,6 +79,9 @@
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>ДатаРождения</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>Пол</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
 			<dcsset:dataParameters>

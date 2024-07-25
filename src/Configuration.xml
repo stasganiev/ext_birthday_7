@@ -69,6 +69,7 @@
 			<Role>др_ОсновнаяРоль</Role>
 			<Role>ПолныеПрава</Role>
 			<Catalog>ФизическиеЛица</Catalog>
+			<Enum>ПолФизическогоЛица</Enum>
 			<Report>др_ПредстоящиеДниРождения</Report>
 		</ChildObjects>
 	</Configuration>
