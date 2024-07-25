@@ -48,6 +48,18 @@
 					</Type>
 				</Properties>
 			</Attribute>
+			<Attribute uuid="d5d3c67a-1547-4dbf-b700-36272f250d8e">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Пол</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>b27688c3-6682-45e1-a03f-0d2e8b1214e4</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:EnumRef.ПолФизическогоЛица</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
